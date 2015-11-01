@@ -6,7 +6,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <groupId>storm.cookbook</groupId>
 <artifactId>example-storm</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<packaging>jar</packaging>
+<packaging>pom</packaging>
 <name>hello-world</name>
 <url>https://bitbucket.org/[user]/hello-world</url>
 <properties>
@@ -26,5 +26,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <url>http://twitter4j.org/maven2</url>
 </repository>
 </repositories>
+
+<!-- Add your modules -->
+<modules>
+	
+</modules>
 </project>
 
