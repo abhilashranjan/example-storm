@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>storm.cookbook</groupId>
+    <groupId>demo.example.storm</groupId>
     <artifactId>example-storm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>storm.cookbook</groupId>
+  <groupId>demo.example.storm</groupId>
   <artifactId>hello-world-ex</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>hello-world-ex</name>
